@@ -9,12 +9,12 @@ body {
 
 h1 {
   background-color: rgb(255, 165, 255);
-  color: hsl(0, 0%, 0%);
+  color: hsl(0deg, 0%, 0%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #00ffff;
+  background-color: #0ff;
   font-size: 20px;
 }
