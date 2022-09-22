@@ -1,15 +1,15 @@
 /* Created by: Timothy Manwell
-  * Created on September 20, 2022
-  * This css file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+ * Created on: Sep 2022
+ * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
 */
 
 body {
-  background-color: tomato;
+  background-color: seagreen;
 }
 
 h1 {
-  background-color: rgb(255, 165, 255);
-  color: hsl(0deg, 0%, 0%);
+  background-color: rgb(74, 176, 123);
+  color: hsl(0deg 0% 0%);
   padding: 40px;
   text-align: center;
 }
